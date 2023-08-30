@@ -1,2 +1,1 @@
-# PrepCourseHenry2
-Repositorio Prueba modulo 2
+Esto es un ejemplo clonar repositorio en computadora
